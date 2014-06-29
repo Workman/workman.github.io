@@ -1,0 +1,10 @@
+#silly_boring_container{
+  margin:10px;
+  max-width: 550px;
+  float:left;
+}
+.g-person{
+  float:right;
+  width:250px;
+  float:left;
+}
